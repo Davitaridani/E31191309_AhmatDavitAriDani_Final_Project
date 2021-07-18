@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00A450</color>
+    <color name="colorPrimaryDark2">#007A3C</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#00A450</color>
+
+    <color name="colorPrimarySoft">#204DBE</color>
+    <color name="colorText">#121931</color>
+    <color name="colorText2">#DB3975</color>
+
+    <color name="orange">#FF9800</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="dark">#121931</color>
+    <color name="biru">#0099FF</color>
+
+    <color name="menungu">#FF9800</color>
+    <color name="selesai">#4CAF50</color>
+    <color name="batal">#E91E1E</color>
+
+    <color name="toolbar">#FFFFFF</color>
+
+    <color name="green_old">#009549</color>
+
+    <color name="backgroud_white">#EDF8F8F8</color>
+    <color name="blue">#0E87F0</color>
+    <color name="shimmer">#A4ECECEC</color>
+    <color name="red">#ff0000</color>
+    <color name="transparant">#00ff0000</color>
+    <color name="greenAtlas">#00D451</color>
+    <color name="greenAtlas2">#18C000</color>
+    <color name="buttonGreenAtlas2">#18C000</color>
+
+    <color name="grey0">#FAFAFA</color>
+    <color name="grey1">#F5F5F5</color>
+    <color name="grey2">#EEEEEE</color>
+    <color name="grey3">#E0E0E0</color>
+    <color name="grey4">#BDBDBD</color>
+    <color name="grey5">#9E9E9E</color>
+    <color name="grey6">#757575</color>
+    <color name="grey7">#616161</color>
+    <color name="grey8">#424242</color>
+    <color name="grey9">#212121</color>
+
+</resources>

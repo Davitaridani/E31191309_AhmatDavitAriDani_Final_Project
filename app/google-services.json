@@ -1,0 +1,195 @@
+{
+  "project_info": {
+    "project_number": "979185835140",
+    "project_id": "my-project-ccc45",
+    "storage_bucket": "my-project-ccc45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979185835140:android:61c12492c4b0242e5276d1",
+        "android_client_info": {
+          "package_name": "com.inyongtisto.doktergigi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979185835140-use6n9aqfandntjveqf2teqjrb51laqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inyongtisto.doktergigi",
+            "certificate_hash": "1b245fb1949423fc4b31f3986e972801383b1d94"
+          }
+        },
+        {
+          "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltoh-VyBXIi_U-HOqamE7byuwdP5d1wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979185835140:android:560e0971369230f45276d1",
+        "android_client_info": {
+          "package_name": "com.inyongtisto.pembelajaran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979185835140-vl0oce9gcqs3uhg8hlpcrfdav3d98a12.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inyongtisto.pembelajaran",
+            "certificate_hash": "1b245fb1949423fc4b31f3986e972801383b1d94"
+          }
+        },
+        {
+          "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltoh-VyBXIi_U-HOqamE7byuwdP5d1wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979185835140:android:bfca02f753ce10125276d1",
+        "android_client_info": {
+          "package_name": "com.inyongtisto.tokokode"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979185835140-4enb7pbcclm6r1f4a6qsmt1h0moq6dvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inyongtisto.tokokode",
+            "certificate_hash": "c98b00bc985a9cc3f5cb5adc3cb5ca347af569a6"
+          }
+        },
+        {
+          "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltoh-VyBXIi_U-HOqamE7byuwdP5d1wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979185835140:android:95f1f5227362a2a35276d1",
+        "android_client_info": {
+          "package_name": "com.inyongtisto.tokoreseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979185835140-h1ubsqcsr2ammucp6rd7rofgi32re5m6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inyongtisto.tokoreseller",
+            "certificate_hash": "1b245fb1949423fc4b31f3986e972801383b1d94"
+          }
+        },
+        {
+          "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltoh-VyBXIi_U-HOqamE7byuwdP5d1wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979185835140:android:433440ae3e79edc35276d1",
+        "android_client_info": {
+          "package_name": "com.inyongtisto.vouchergame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979185835140-oi1lqj8b9vedv5cq74tfmauu2nqj9nvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.inyongtisto.vouchergame",
+            "certificate_hash": "1b245fb1949423fc4b31f3986e972801383b1d94"
+          }
+        },
+        {
+          "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDltoh-VyBXIi_U-HOqamE7byuwdP5d1wA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979185835140-kb9lit0965j1ep87cgn9s7e5gm3dj4oa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
